@@ -17,7 +17,7 @@ func init() {
 	var staff []types.Employee
 
 	if len(path) == 0 {
-		path = "data.json"
+		path = "data.json1111"
 	} else {
 	}
 
